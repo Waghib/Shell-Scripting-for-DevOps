@@ -12,3 +12,6 @@ read username
 
 echo "You entered $username"
 
+echo "Vriables are: $1 $2"
+
+
